@@ -14,8 +14,8 @@
 /* Import fonts */
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 
-@import url("prettyPhoto.css-we will fix this CSS") screen;
-@import url("hoverex-all.css-we will fix this CSS") screen;
+@import url(https://cdn.rawgit.com/scaron/prettyphoto/4cc502ef/css/prettyPhoto.css) screen;
+@import url(https://cdn.rawgit.com/edusgroup/SiteCoreFlame/master/theme-res/plugin/hoverEx/src/HoverEx%20files/hoverex-all.css) screen;
 
 * { 
 	margin: 0;
